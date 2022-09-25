@@ -1,0 +1,11 @@
+
+.idea
+.history
+.vscode
+
+DS_Store
+
+vendor/
+
+*.html
+*.ini

@@ -1,0 +1,17 @@
+{
+    "name": "x3d/dictgen",
+    "description": "The db dict generator",
+    "keywords": ["db dict generator"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "topthink/think-orm": "^2.0",
+        "pear/console_getopt": "^1.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "x3d\\dictgen\\": "src/"
+        }
+    }
+}
