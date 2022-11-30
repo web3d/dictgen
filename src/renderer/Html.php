@@ -41,6 +41,10 @@ text-align: center;
 font-weight: bold;
 margin-top: 70px;
 }
+.dropdown-menu {
+	max-height: calc( 100vh - 100px );
+	overflow-y: auto;
+}
 </style>
 </head>
 <body>
